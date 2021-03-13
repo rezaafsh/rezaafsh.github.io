@@ -324,7 +324,7 @@ $(function() {
     $('#typed').typed({
         strings: [
             "Reza Afshoun.",
-            "a software developer.",
+            "a software engineer.",
             "a linux enthusiast.",
             "not coffee lover :)",
             "a space lover.",
